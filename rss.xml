@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[waterproof mascara]]></title>
         <description><![CDATA[waterproof mascara]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/waterproof-mascara/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 11:58:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 13:48:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/waterproof-mascara/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be236669-54d9-4e4c-8fd6-2518f7140621.png">]]></description>
+            <link>https://thegrid.ai/waterproof-mascara/cdd7b221-e07e-4acf-a5c9-82f4806dc08e/index.html</link>
+            <guid isPermaLink="false">cdd7b221-e07e-4acf-a5c9-82f4806dc08e</guid>
+            <pubDate>Wed, 24 Feb 2016 13:48:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6f6c3242-ba89-486e-ac36-0d8d13c8bb9d.jpg">]]></description>
-            <link>undefined341cd31f-cc1f-4c42-b9b4-b1f58d22e9b9/index.html</link>
+            <link>https://thegrid.ai/waterproof-mascara/341cd31f-cc1f-4c42-b9b4-b1f58d22e9b9/index.html</link>
             <guid isPermaLink="false">341cd31f-cc1f-4c42-b9b4-b1f58d22e9b9</guid>
             <pubDate>Wed, 24 Feb 2016 11:57:59 GMT</pubDate>
         </item>
